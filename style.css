@@ -1,0 +1,159 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+#ilustración-2{
+    width: 90%;
+}
+
+#datos-personales{
+    background-color: #F2594B;
+}
+
+.text-body-emphasis{
+    color: #f0f0f0!important; font-family: 'Secular One', sans-serif;
+    margin-top: 10px !important;
+}
+
+.lead{
+    color: #f0f0f0; font-family: 'Signika', sans-serif;
+}
+
+.myinfo{
+    color: #f0f0f0;
+}
+
+.nav-link{
+    color: #653208;
+}
+
+.nav-link:hover{
+    color: #80F2DD;
+}
+
+.span{
+    background-color: #F2594B;
+}
+
+.hobbies{
+    background-color: #11B4D9;
+}
+
+.badge{
+    color: #47321c
+}
+
+.habilidades{
+    color: #F2594B; font-family: 'Secular One', sans-serif;
+}
+
+#presentacion{
+    color: #f0f0f0;
+}
+
+.contacto{
+    background-color: #11A0D9;
+}
+
+.bi{
+    color: #80F2DD; 
+    width: 80px;
+    font-size: 1.8rem;
+}
+
+.progress{
+    height: 30px;
+}
+
+.derechos{
+color: #63c3d8;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+#título-proyecto{
+    font-family: 'Secular One', sans-serif;
+}
+
+.proyectos{
+   justify-content: flex-end; 
+}
+
+#contactame{
+    cursor: pointer;
+}
+
+#ilustracion{
+    background-image: url(imagenes/acrilico2.jpg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+
+#ilustracion:hover{
+    opacity: .5;
+    box-shadow: 2px 2px 6px#4b5856;
+}
+
+#fotografia{
+    background-image: url(imagenes/bellasartes.JPG);
+    background-size: cover;
+    background-position: 50% 70%;
+    cursor: pointer;
+}
+
+#fotografia:hover{
+    opacity: .5;
+    box-shadow: 2px 2px 6px#4b5856;
+}
+
+#disenoe{
+    cursor: pointer;
+}
+
+#disenoe:hover{
+    opacity: .5;
+    box-shadow: 2px 2px 6px#4b5856;
+}
+
+#hobbies{
+    background-image: url(imagenes/chris.jpg);
+    background-size: cover;
+    background-position-y: 65%;
+    cursor: pointer;
+}
+
+#hobbies:hover{
+    opacity: .5;
+    box-shadow: 2px 2px 6px#4b5856;
+}
+
+.bi:hover{
+    opacity: 50%;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #4b5856;
+    height: 5px;
+}
+
+.carousel-caption{
+    color: #1f2020;
+}
+
+.carousel-inner p{
+    margin-bottom: 35px;
+}
+
+
+{}
